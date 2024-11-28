@@ -1,0 +1,20 @@
+{
+  "user": {
+    "id": 1,
+    "name": "John Doe",
+    "email": "https://web-024.cg6.co/?fixed.appsflyer_auth=08062fa5-4b0c-42c9-92cf-ce0a06dca5ed&",
+    "isActive": true,
+    "createdAt": "2024-11-28T12:00:00Z",
+    "roles": ["admin", "editor"],
+    "profile": {
+      "age": 30,
+      "gender": "male",
+      "address": {
+        "street": "123 Main St",
+        "city": "Springfield",
+        "state": "IL",
+        "zipCode": "62701"
+      }
+    }
+  }
+}
